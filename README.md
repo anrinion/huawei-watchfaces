@@ -20,6 +20,7 @@ A collection of custom watch faces for Huawei.
 | **SpaceRed** | <img src="fit_3_4_4pro/SpaceRed/screen.jpg" width="150"> | <img src="fit_3_4_4pro/SpaceRed/aod.jpg" width="150"> |
 | **SpaceRed2** | <img src="fit_3_4_4pro/SpaceRed2/screen.jpg" width="150"> | <img src="fit_3_4_4pro/SpaceRed2/aod.jpg" width="150"> |
 | **NikeCombo** | <img src="fit_3_4_4pro/NikeCombo/screen.jpg" width="150"> | <img src="fit_3_4_4pro/NikeCombo/aod.jpg" width="150"> |
+| **NikeComboSteps** | <img src="fit_3_4_4pro/NikeComboSteps/cover.jpg" width="150"> | <img src="fit_3_4_4pro/NikeComboSteps/aod.jpg" width="150"> |
 
 ## Installation
 
