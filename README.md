@@ -32,6 +32,12 @@ A collection of custom watch faces for Huawei.
 |:----------:|:------:|:---:|
 | **FocusWGTru** | <img src="gt6_46_pro/FocusWGTru/cover.jpg" width="150"> | <img src="gt6_46_pro/FocusWGTru/aod.jpg" width="150"> |
 
+### Band 9/10
+
+| Watch Face | Screen | AOD |
+|:----------:|:------:|:---:|
+| **Everest9** | <img src="band9_10/Everest9/cover.jpg" width="150"> | <img src="band9_10/Everest9/aod.jpg" width="150"> |
+
 ## Installation
 
 No installation instructions provided for legal reasons. Seek and ye shall find.
