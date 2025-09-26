@@ -36,7 +36,7 @@ A collection of custom watch faces for Huawei.
 
 | Watch Face | Screen | AOD |
 |:----------:|:------:|:---:|
-| **Everest9** | <img src="band9_10/Everest9/cover.jpg" width="150"> | <img src="band9_10/Everest9/aod.jpg" width="150"> |
+| **Nike9** | <img src="band9_10/Nike9/cover.jpg" width="150"> | <img src="band9_10/Nike9/aod.jpg" width="150"> |
 
 ## Installation
 
