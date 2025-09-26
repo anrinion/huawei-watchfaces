@@ -6,9 +6,12 @@ A collection of custom watch faces for Huawei.
 - Created with Facemaker
 - No password protection - feel free to modify
 - All watch faces include AOD (Always-On Display)
-- Tested on Huawei Watch Fit 4 Pro, *should* be compatible with Huawei Watch Fit 3 and Huawei Watch Fit 4
 
 ## Available Watch Faces
+
+### Fit 3/4/4 Pro
+
+- Tested on Huawei Watch Fit 4 Pro, *should* be compatible with Huawei Watch Fit 3 and Huawei Watch Fit 4
 
 | Watch Face | Screen | AOD |
 |:----------:|:------:|:---:|
@@ -22,6 +25,12 @@ A collection of custom watch faces for Huawei.
 | **NikeCombo** | <img src="fit_3_4_4pro/NikeCombo/screen.jpg" width="150"> | <img src="fit_3_4_4pro/NikeCombo/aod.jpg" width="150"> |
 | **NikeComboSteps** | <img src="fit_3_4_4pro/NikeComboSteps/cover.jpg" width="150"> | <img src="fit_3_4_4pro/NikeComboSteps/aod.jpg" width="150"> |
 | **NikeComboLessAOD** | <img src="fit_3_4_4pro/NikeComboLessAOD/cover.jpg" width="150"> | <img src="fit_3_4_4pro/NikeComboLessAOD/aod.jpg" width="150"> |
+
+### GT6 Pro
+
+| Watch Face | Screen | AOD |
+|:----------:|:------:|:---:|
+| **FocusWGTru** | <img src="gt6_46_pro/FocusWGTru/cover.jpg" width="150"> | <img src="gt6_46_pro/FocusWGTru/aod.jpg" width="150"> |
 
 ## Installation
 
