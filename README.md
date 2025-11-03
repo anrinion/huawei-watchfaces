@@ -26,11 +26,12 @@ A collection of custom watch faces for Huawei.
 | **NikeComboSteps** | <img src="fit_3_4_4pro/NikeComboSteps/cover.jpg" width="150"> | <img src="fit_3_4_4pro/NikeComboSteps/aod.jpg" width="150"> |
 | **NikeComboLessAOD** | <img src="fit_3_4_4pro/NikeComboLessAOD/cover.jpg" width="150"> | <img src="fit_3_4_4pro/NikeComboLessAOD/aod.jpg" width="150"> |
 
-### GT6 Pro
+### GT6 41/46/46 Pro
 
 | Watch Face | Screen | AOD |
 |:----------:|:------:|:---:|
 | **FocusWGTru** | <img src="gt6_46_pro/FocusWGTru/cover.jpg" width="150"> | <img src="gt6_46_pro/FocusWGTru/aod.jpg" width="150"> |
+| **Gt6Nike** | <img src="gt6_41/Gt6Nike/cover.jpg" width="150"> | <img src="gt6_41/Gt6Nike/aod.jpg" width="150"> |
 
 ### Band 9/10
 
